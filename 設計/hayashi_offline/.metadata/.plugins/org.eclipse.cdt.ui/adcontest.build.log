@@ -1,0 +1,6 @@
+18:13:38 **** Incremental Build of configuration Debug for project adcontest ****
+make all 
+make: Nothing to be done for `all'.
+
+18:13:40 Build Finished (took 1s.527ms)
+
